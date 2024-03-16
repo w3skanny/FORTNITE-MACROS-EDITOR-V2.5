@@ -1,0 +1,21 @@
+{
+   "Language" : "en_GB",
+   "Menu" : 115,
+   "Down" : 98,
+   "Left" : 100,
+   "Move back" : 83,
+   "Move down" : 90,
+   "Move forward" : 87,
+   "Move left" : 65,
+   "Move right" : 68,
+   "Move up" : 81,
+   "No clip" : 114,
+   "Return" : 96,
+   "Right" : 102,
+   "Select" : 101,
+   "Speed mode" : 16,
+   "Teleport Madam Nazar" : 118,
+   "Teleport To Waypoint" : 116,
+   "Teleport To camp" : 117,
+   "Up" : 104
+}
